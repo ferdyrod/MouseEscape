@@ -1,0 +1,8 @@
+*.DS_Store
+cocos2d/
+*.android-studio/
+*.android/
+*.win*
+*.tizen/
+*.linux
+
